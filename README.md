@@ -1,4 +1,3 @@
-# Vishal_Londhekar
 <img width="2172" height="724" alt="Vishal Londhekar Analytics Dashboard" src="https://github.com/user-attachments/assets/2d76dc96-7b94-4b6f-8d35-e6ae7efd5731" />
 
 # Hi, I'm Vishal Londhekar 👋

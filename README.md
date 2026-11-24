@@ -1,100 +1,100 @@
-<img width="2172" height="724" alt="Vishal Londhekar Analytics Dashboard" src="https://github.com/user-attachments/assets/2d76dc96-7b94-4b6f-8d35-e6ae7efd5731" />
+<!-- Profile README for github.com/vishal-Londhekar -->
+<p align="center">
+  <img width="100%" alt="Vishal Londhekar | Data Analyst and Business Intelligence" src="https://github.com/user-attachments/assets/2d76dc96-7b94-4b6f-8d35-e6ae7efd5731" />
+</p>
 
-# Hi, I'm Vishal Londhekar 👋
+<h1 align="center">Hi, I'm Vishal Londhekar 👋</h1>
+<h3 align="center">Data Analyst | Business Intelligence Analyst | Operations Analytics</h3>
 
-### Data Analyst | Business Intelligence Analyst | Business Analytics
+<p align="center">
+  I turn business and operational data into clear analysis, useful dashboards, and better decisions.
+</p>
 
-I am an aspiring Data Analyst with hands-on experience in business operations, data analysis, reporting, and dashboard development.
-
-I enjoy transforming raw data into meaningful insights that help businesses understand performance, identify opportunities, and make better decisions.
-
-My technical toolkit includes **SQL, Python, Power BI, Excel, and DAX**, supported by practical projects in sales analytics, operations analytics, market intelligence, and machine learning.
+<p align="center">
+  <a href="https://github.com/vishal-Londhekar">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📊 Interested in Data Analytics, Business Intelligence, and Business Analytics.
-- 💼 Professional experience in quick-commerce operations at Blinkit.
-- 🐍 Working with Python, Pandas, NumPy, and data visualisation.
-- 🗄️ Practising SQL for data extraction, transformation, and analysis.
-- 📈 Building interactive Power BI dashboards and Excel reports.
-- 🤖 Exploring Machine Learning and predictive analytics.
-- 🎯 Focused on solving real-world business problems using data.
+I am a data analytics professional with experience in quick-commerce operations at Blinkit and a project portfolio across business intelligence, sales analysis, market intelligence, exploratory data analysis, and machine learning.
 
----
+My strength is connecting business context with analytical thinking: understanding an operational question, identifying the right measures, analysing data, and communicating findings in a way that supports action.
 
-## 🛠️ Technical Skills
+- 💼 **Business context:** Quick-commerce and dark-store operations
+- 📊 **Analytics focus:** KPI reporting, operational performance, sales and market analysis
+- 🧰 **Core tools:** SQL, Python, Power BI, Excel, and DAX
+- 📈 **Portfolio:** Power BI dashboards, Excel reporting, Python notebooks, and ML experiments
+- 🎯 **Current goal:** Data Analyst / BI Analyst opportunities
 
-| Category              | Technologies                  |
-| --------------------- | ----------------------------- |
-| Programming           | Python                        |
-| Database              | SQL                           |
-| Data Analysis         | Pandas, NumPy                 |
-| Visualisation         | Matplotlib, Seaborn           |
-| Business Intelligence | Power BI, DAX                 |
-| Spreadsheet           | Microsoft Excel               |
-| Machine Learning      | Scikit-learn                  |
-| Tools                 | Jupyter Notebook, Git, GitHub |
+## 🛠️ Skills & Tools
 
----
+| Area | Skills |
+|---|---|
+| Querying | SQL: joins, aggregations, subqueries, CTEs, window functions |
+| Programming | Python |
+| Data analysis | Pandas, NumPy, data cleaning, EDA |
+| Visualisation | Power BI, DAX, Matplotlib, Seaborn, Tableau |
+| Reporting | Excel, PivotTables, KPI reporting, dashboard design |
+| Machine learning | Scikit-learn, classification, regression, clustering |
+| Workflow | Jupyter Notebook, Git, GitHub |
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
-### 1. Business Intelligence & Dashboard Projects
+### Business Intelligence & Dashboards
 
-| Project                           | Tools                | Repository                                                                                                               |
-| --------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Global Mobile Market Intelligence | Power BI, DAX, Excel | [View Project](https://github.com/vishal-Londhekar/Global-Mobile-Market-Intelligence-Dashboard)                          |
-| Cricket Performance Analysis      | Power BI             | [View Project](https://github.com/vishal-Londhekar/Cricket-Analysis-Project-Power-BI)                                    |
-| Nestlé India Sales Dashboard      | Excel                | [View Project](https://github.com/vishal-Londhekar/Nestle_India_Sales_Performance_Dashboard-Excel_Business_Intelligence) |
-| Danish Housing Market Analysis    | Power BI             | [View Project](https://github.com/vishal-Londhekar/Danish_Housing_Sales_Analysis_Dashboard_Power-BI)                     |
+| Project | Tools | What it demonstrates |
+|---|---|---|
+| [Global Mobile Market Intelligence](https://github.com/vishal-Londhekar/Global-Mobile-Market-Intelligence-Dashboard) | Power BI, DAX, Excel | Product and pricing comparisons, market segmentation, dashboard reporting |
+| [Danish Housing Sales Analysis](https://github.com/vishal-Londhekar/Danish_Housing_Sales_Analysis_Dashboard_Power-BI) | Power BI, DAX | Historical housing trends and regional analysis |
+| [Nestlé India Sales Dashboard](https://github.com/vishal-Londhekar/Nestle_India_Sales_Performance_Dashboard-Excel_Business_Intelligence) | Excel | Sales KPIs and business reporting |
+| [Cricket Performance Analysis](https://github.com/vishal-Londhekar/Cricket-Analysis-Project-Power-BI) | Power BI | Sports performance reporting |
 
-### 2. Python & Data Analytics Projects
+### Python & Exploratory Analysis
 
-| Project                  | Tools               | Repository                                                                                                                                    |
-| ------------------------ | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Airbnb Bookings Analysis | Python, Pandas, EDA | [View Project](https://github.com/vishal-Londhekar/AirBnb-Bookings-Analysis)                                                                  |
-| Airbnb Tableau Analysis  | Tableau             | [View Project](https://github.com/vishal-Londhekar/Airbnb-Analysis-1)                                                                         |
-| Stock Revenue Analysis   | Python, Dashboard   | [View Project](https://github.com/vishal-Londhekar/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard-IBM-DATA-Science-Project) |
+| Project | Tools | What it demonstrates |
+|---|---|---|
+| [Airbnb Bookings Analysis](https://github.com/vishal-Londhekar/AirBnb-Bookings-Analysis) | Python, Pandas, EDA | Listing, pricing, availability, and neighbourhood patterns |
+| [Airbnb Tableau Analysis](https://github.com/vishal-Londhekar/Airbnb-Analysis-1) | Tableau | Interactive marketplace analysis |
+| [Stock Revenue Analysis](https://github.com/vishal-Londhekar/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard-IBM-DATA-Science-Project) | Python, data visualisation | Historical stock and revenue analysis |
 
-### 3. Machine Learning Projects
+### Machine Learning Projects
 
-| Project                      | Techniques                 | Repository                                                                                                                                             |
-| ---------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Email Campaign Effectiveness | Classification             | [View Project](https://github.com/vishal-Londhekar/Email_Campaign_Effectiveness_Prediction-End-to-End-Multi-Class_Classification-ML-Project)           |
-| Seoul Bike Sharing Demand    | Regression                 | [View Project](https://github.com/vishal-Londhekar/Seoul_Bike_Sharing_Demand_Prediction-Machine_Learning_Regression_Project)                           |
-| Netflix Content Clustering   | Clustering, Recommendation | [View Project](https://github.com/vishal-Londhekar/Netflix-Movies---TV-Shows-Clustering---Recommendation-System-Unsupervised-Machine-Learning-Project) |
+| Project | Techniques | What it demonstrates |
+|---|---|---|
+| [Email Campaign Effectiveness](https://github.com/vishal-Londhekar/Email_Campaign_Effectiveness_Prediction-End-to-End-Multi-Class_Classification-ML-Project) | Classification | Campaign outcome modelling and evaluation |
+| [Seoul Bike Sharing Demand](https://github.com/vishal-Londhekar/Seoul_Bike_Sharing_Demand_Prediction-Machine_Learning_Regression_Project) | Regression | Demand patterns and predictive modelling |
+| [Netflix Content Clustering](https://github.com/vishal-Londhekar/Netflix-Movies---TV-Shows-Clustering---Recommendation-System-Unsupervised-Machine-Learning-Project) | Clustering, similarity | Text features and content grouping |
 
----
+> Project repositories contain the supporting notebooks, workbooks, datasets, or documentation where available. Please refer to each project README for its exact scope, data source, methodology, and limitations.
 
-## 💡 Areas of Interest
+## 🧭 What I Like Working On
 
-- Business Intelligence & Reporting
-- Operations and Supply Chain Analytics
-- Sales and Revenue Analytics
-- Customer Behaviour Analysis
-- Data Visualisation and Storytelling
-- Predictive Analytics
-
----
+- Turning business questions into measurable KPIs
+- Analysing operational efficiency and productivity
+- Finding patterns in sales, customers, and products
+- Building dashboards that are easy for stakeholders to use
+- Explaining findings and practical next steps clearly
 
 ## 📚 Currently Improving
 
-- Advanced SQL and query optimisation
-- Advanced Power BI and DAX
-- Python for data analysis and automation
-- Statistics and analytical problem-solving
-- Business-focused analytical projects
+- Advanced SQL and analytical problem-solving
+- Power BI data modelling and DAX
+- Python for repeatable analysis and automation
+- Statistics and experiment interpretation
+- End-to-end business analytics projects
+
+## 🤝 Connect
+
+I am happy to connect with data professionals, BI developers, business analysts, and recruiters working on analytics opportunities.
+
+- **GitHub:** [vishal-Londhekar](https://github.com/vishal-Londhekar)
+- **LinkedIn:** Add your personal LinkedIn profile URL here
 
 ---
 
-## 🤝 Let's Connect
-
-I am interested in connecting with Data Analysts, BI Developers, Business Analysts, recruiters, and professionals working in analytics.
-
-**GitHub:** [github.com/vishal-Londhekar](https://github.com/vishal-Londhekar)
-
----
-
-⭐ *My goal is simple: Use data to understand business problems, discover meaningful insights, and support better decisions.*
+<p align="center">
+  <i>Curious about the question behind the data, focused on the insight that helps answer it.</i>
+</p>

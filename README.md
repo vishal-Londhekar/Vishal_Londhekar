@@ -12,7 +12,6 @@
 
 <p align="center">
   <a href="https://github.com/vishal-Londhekar">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
 </p>
 
 ---
@@ -91,7 +90,7 @@ My strength is connecting business context with analytical thinking: understandi
 I am happy to connect with data professionals, BI developers, business analysts, and recruiters working on analytics opportunities.
 
 - **GitHub:** [vishal-Londhekar](https://github.com/vishal-Londhekar)
-- **LinkedIn:** Add your personal LinkedIn profile URL here
+- **LinkedIn:** Add your LinkedIn profile URL when ready
 
 ---
 

@@ -1,6 +1,6 @@
 <!-- ANALYTICS QUEST: Vishal Londhekar's portfolio README -->
 <p align="center">
-  <<img width="2172" height="724" alt="Vishal Londhekar_ Data Analyst Quest" src="https://github.com/user-attachments/assets/a9badf83-7623-4be7-9da8-e4da928b7209" />
+  <img width="2172" height="724" alt="Vishal Londhekar_ Data Analyst Quest" src="https://github.com/user-attachments/assets/a9badf83-7623-4be7-9da8-e4da928b7209"
  />
 </p>
 

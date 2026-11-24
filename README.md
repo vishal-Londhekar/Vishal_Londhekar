@@ -1,110 +1,179 @@
-<!--
-  Vishal Londhekar | Data Analyst Portfolio
-  Keep project claims aligned with the code, notebooks, and dashboards in each repository.
--->
-
+<!-- ANALYTICS QUEST: Vishal Londhekar's portfolio README -->
 <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/2d76dc96-7b94-4b6f-8d35-e6ae7efd5731"
-    alt="Vishal Londhekar | Data Analyst and Business Intelligence"
-    width="100%"
-  />
+  <img src="assets/analytics-quest-banner.svg" alt="Vishal Londhekar | Analytics Quest" width="100%" />
 </p>
 
-<h1 align="center">Vishal Londhekar</h1>
-<h3 align="center">Data Analyst · Business Intelligence · Operations Analytics</h3>
+<h1 align="center">🎮 Welcome to Vishal's Analytics Quest</h1>
+<h3 align="center">DATA ANALYST  •  BUSINESS INTELLIGENCE  •  OPERATIONS ANALYTICS</h3>
 
 <p align="center">
-  Turning business questions into structured analysis, clear dashboards, and actionable insights.
+  <b>From business question to data insight. From insight to better decisions.</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vishal-Londhekar?tab=repositories">Explore my projects</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/vishal-Londhekar">GitHub profile</a>
+  <a href="https://github.com/vishal-Londhekar?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-12B8C4?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="https://github.com/vishal-Londhekar"><img src="https://img.shields.io/badge/PLAYER-VISHAL_LONDHEKAR-173B5E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 </p>
 
 ---
 
-## Profile
+## 🧑‍🚀 PLAYER PROFILE
 
-I bring together **quick-commerce operations experience** and hands-on work in **data analysis and business intelligence**. I am interested in using data to understand performance, identify operational gaps, and help teams make better-informed decisions.
-
-My project work covers sales and market analysis, interactive dashboards, exploratory data analysis, and introductory machine learning workflows.
-
-**Roles I am targeting:** Data Analyst · BI Analyst · Operations Analyst
-
-## Core Skills
-
-| Area | Tools and capabilities |
+| Player attribute | Details |
 |---|---|
-| Data querying | SQL, joins, aggregations, subqueries, CTEs |
-| Programming | Python |
-| Data preparation and analysis | Pandas, NumPy, data cleaning, exploratory data analysis |
-| Business intelligence | Power BI, DAX, dashboard design, KPI reporting |
-| Spreadsheet analytics | Microsoft Excel, PivotTables |
-| Data visualisation | Matplotlib, Seaborn, Tableau |
-| Machine learning foundations | Scikit-learn, classification, regression, clustering |
-| Development tools | Jupyter Notebook, Git, GitHub |
+| **Player** | Vishal Londhekar |
+| **Current class** | Data Analyst |
+| **Specialisation path** | Business Intelligence & Operations Analytics |
+| **Domain experience** | Quick-commerce operations |
+| **Primary loadout** | SQL · Python · Power BI · Excel · DAX |
+| **Current mission** | Build clear, reliable analysis that supports business decisions |
 
-## Selected Projects
+I combine hands-on experience in **quick-commerce operations at Blinkit** with practical projects in data analysis and business intelligence. I enjoy investigating operational questions, working with data, building dashboards, and communicating findings in a way that business teams can use.
 
-The projects below are selected to showcase business intelligence, analytical thinking, and practical use of data tools.
+**My personal brand:** I understand the operational context behind the numbers, not just the tools used to report them.
 
-### Business Intelligence and Reporting
+---
 
-| Project | Tools | Focus |
-|---|---|---|
-| [Global Mobile Market Intelligence](https://github.com/vishal-Londhekar/Global-Mobile-Market-Intelligence-Dashboard) | Power BI, DAX, Excel | Smartphone pricing, product specifications, brand comparisons, and market segmentation |
-| [Nestlé India Sales Performance](https://github.com/vishal-Londhekar/Nestle_India_Sales_Performance_Dashboard-Excel_Business_Intelligence) | Excel | Sales reporting, KPI summaries, and product and location comparisons |
-| [Danish Housing Market Analysis](https://github.com/vishal-Londhekar/Danish_Housing_Sales_Analysis_Dashboard_Power-BI) | Power BI, DAX | Historical housing prices, regional patterns, and transaction analysis |
-| [Cricket Performance Analysis](https://github.com/vishal-Londhekar/Cricket-Analysis-Project-Power-BI) | Power BI | Interactive player and team performance reporting |
+## 🗺️ THE QUEST MAP
 
-### Python and Exploratory Data Analysis
+This portfolio follows the path an analyst takes to create value:
 
-| Project | Tools | Focus |
-|---|---|---|
-| [Airbnb Bookings Analysis](https://github.com/vishal-Londhekar/AirBnb-Bookings-Analysis) | Python, Pandas, visualisation | Listing prices, room types, availability, host activity, and neighbourhood patterns |
-| [Airbnb Tableau Analysis](https://github.com/vishal-Londhekar/Airbnb-Analysis-1) | Tableau | Interactive exploration of listing and marketplace patterns |
+<p align="center">
+  <img src="https://img.shields.io/badge/01-ASK_THE_RIGHT_QUESTION-123B5D?style=flat-square" alt="Ask the right question" />
+  ➜
+  <img src="https://img.shields.io/badge/02-QUERY_AND_PREPARE-126E82?style=flat-square" alt="Query and prepare" />
+  ➜
+  <img src="https://img.shields.io/badge/03-ANALYSE-168B91?style=flat-square" alt="Analyse" />
+  ➜
+  <img src="https://img.shields.io/badge/04-VISUALISE-1BA6A6?style=flat-square" alt="Visualise" />
+  ➜
+  <img src="https://img.shields.io/badge/05-RECOMMEND-2D7C67?style=flat-square" alt="Recommend" />
+</p>
 
-### Machine Learning Projects
+| Quest stage | What I work on |
+|---|---|
+| 🧭 Understand | Define the business question, audience, and decision |
+| 🧹 Prepare | Inspect, clean, structure, and validate data |
+| 🔍 Analyse | Query data, explore patterns, and investigate drivers |
+| 📊 Visualise | Build understandable dashboards and reports |
+| 💡 Communicate | Explain findings, limitations, and practical next steps |
 
-| Project | Techniques | Focus |
-|---|---|---|
-| [Email Campaign Effectiveness](https://github.com/vishal-Londhekar/Email_Campaign_Effectiveness_Prediction-End-to-End-Multi-Class_Classification-ML-Project) | Classification | Analysing campaign outcomes and evaluating classification models |
-| [Seoul Bike Sharing Demand](https://github.com/vishal-Londhekar/Seoul_Bike_Sharing_Demand_Prediction-Machine_Learning_Regression_Project) | Regression | Exploring demand patterns and building prediction models |
-| [Netflix Content Clustering](https://github.com/vishal-Londhekar/Netflix-Movies---TV-Shows-Clustering---Recommendation-System-Unsupervised-Machine-Learning-Project) | Clustering, text similarity | Grouping catalogue titles using metadata and text features |
+---
 
-> Each repository contains its own project files and documentation. Please refer to the individual README for the dataset source, implementation details, evaluation, and limitations.
+## 🌳 SKILL TREE
 
-## Business and Operations Perspective
+*The tools and methods I use across my portfolio. The project links below show examples of how I apply them.*
 
-My quick-commerce operations experience gives me context for practical business questions such as:
+| Skill branch | Toolkit |
+|---|---|
+| 🗄️ **Querying** | SQL · joins · aggregations · subqueries · CTEs |
+| 🐍 **Programming** | Python |
+| 🧪 **Data analysis** | Pandas · NumPy · data cleaning · EDA |
+| 📊 **Business intelligence** | Power BI · DAX · KPI reporting · dashboard design |
+| 📈 **Visualisation** | Matplotlib · Seaborn · Tableau |
+| 📗 **Spreadsheet analytics** | Excel · PivotTables |
+| 🤖 **Machine learning foundations** | Scikit-learn · classification · regression · clustering |
+| 🧰 **Workflow** | Jupyter Notebook · Git · GitHub |
 
-- How can teams monitor operational performance using clearly defined KPIs?
-- Where do fulfilment and productivity bottlenecks occur?
-- How can inventory and manpower information support better planning?
-- How should performance trends be communicated to operational stakeholders?
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Querying-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-Analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Power_BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-Reporting-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/DAX-Modeling-0B6A88?style=flat-square" alt="DAX" />
+</p>
 
-I am particularly interested in **operations analytics, supply chain analytics, sales performance, and business intelligence**.
+---
 
-## Current Learning Focus
+## 🏆 COMPLETED MISSIONS: PROJECT ARCADE
 
-- Strengthening SQL problem-solving and analytical querying
-- Improving Power BI data modelling and DAX
-- Building repeatable analysis workflows with Python
-- Applying statistics to business questions
-- Developing end-to-end projects with clear findings and recommendations
+Choose a mission to inspect its repository, project files, methodology, and findings.
 
-## Let's Connect
+### 📊 BI & Dashboard Missions
 
-I welcome conversations with data analysts, BI professionals, business teams, and recruiters.
+| Mission | Tools | Challenge explored | Open mission |
+|---|---|---|---|
+| **Global Mobile Market Intelligence** | Power BI · DAX · Excel | Compare smartphone pricing, specifications, brands, and market segments | [▶ Play](https://github.com/vishal-Londhekar/Global-Mobile-Market-Intelligence-Dashboard) |
+| **Nestlé India Sales Performance** | Excel | Explore sales KPIs, products, and location-level performance | [▶ Play](https://github.com/vishal-Londhekar/Nestle_India_Sales_Performance_Dashboard-Excel_Business_Intelligence) |
+| **Danish Housing Market Analysis** | Power BI · DAX | Explore historical housing prices and regional patterns | [▶ Play](https://github.com/vishal-Londhekar/Danish_Housing_Sales_Analysis_Dashboard_Power-BI) |
+| **Cricket Performance Analysis** | Power BI | Organise player and team performance indicators | [▶ Play](https://github.com/vishal-Londhekar/Cricket-Analysis-Project-Power-BI) |
 
-- **GitHub:** [github.com/vishal-Londhekar](https://github.com/vishal-Londhekar)
-- **Projects:** [Browse all repositories](https://github.com/vishal-Londhekar?tab=repositories)
+### 🐍 Python & Exploratory Analysis Missions
+
+| Mission | Tools | Challenge explored | Open mission |
+|---|---|---|---|
+| **Airbnb Bookings Analysis** | Python · Pandas · EDA | Explore listing prices, room types, availability, and neighbourhood patterns | [▶ Play](https://github.com/vishal-Londhekar/AirBnb-Bookings-Analysis) |
+| **Airbnb Tableau Analysis** | Tableau | Explore marketplace listings through interactive visual analysis | [▶ Play](https://github.com/vishal-Londhekar/Airbnb-Analysis-1) |
+
+### 🤖 Machine Learning Missions
+
+| Mission | Techniques | Challenge explored | Open mission |
+|---|---|---|---|
+| **Email Campaign Effectiveness** | Classification | Explore campaign outcomes and evaluate classification models | [▶ Play](https://github.com/vishal-Londhekar/Email_Campaign_Effectiveness_Prediction-End-to-End-Multi-Class_Classification-ML-Project) |
+| **Seoul Bike Sharing Demand** | Regression | Analyse demand patterns and build regression models | [▶ Play](https://github.com/vishal-Londhekar/Seoul_Bike_Sharing_Demand_Prediction-Machine_Learning_Regression_Project) |
+| **Netflix Content Clustering** | Clustering · Text similarity | Explore catalogue grouping and title similarity | [▶ Play](https://github.com/vishal-Londhekar/Netflix-Movies---TV-Shows-Clustering---Recommendation-System-Unsupervised-Machine-Learning-Project) |
+
+<sub>Each project repository is the source of truth for its files, data source, implementation, results, and limitations. The summaries above describe project scope, not independently verified business outcomes.</sub>
+
+---
+
+## 🛒 DOMAIN ADVANTAGE: QUICK-COMMERCE OPERATIONS
+
+**Real-world context is part of my analytical toolkit.**
+
+My experience in quick-commerce operations at Blinkit gives me exposure to the kinds of practical questions that operations teams need to answer.
+
+| Business challenge | Analytical lens |
+|---|---|
+| Store performance | KPI tracking and trend analysis |
+| Picking productivity | Throughput and productivity analysis |
+| Inventory availability | Stockout and availability monitoring |
+| Order fulfilment | Process efficiency and delay analysis |
+| Manpower planning | Workload and resource utilisation |
+| Daily operations reporting | Performance summaries and exception reporting |
+
+I want to bring this operational context into analytical work: define the metric correctly, investigate what is driving it, and communicate what the team should examine next.
+
+---
+
+## 🧩 NEXT QUESTS: WORK IN PROGRESS
+
+These are planned portfolio improvements, not completed projects.
+
+- [ ] **Dark Store Operations Analytics** — build an end-to-end SQL, Python, and Power BI project using synthetic quick-commerce data.
+- [ ] **Retail Customer & Sales Analytics** — analyse customer repeat behaviour, sales trends, and product performance.
+- [ ] **SQL Case Study Pack** — publish practical business questions with readable, tested SQL solutions.
+- [ ] **Portfolio Evidence Upgrade** — add dashboard screenshots, metric definitions, data provenance, and concise findings to selected repositories.
+
+---
+
+## 🐉 BOSS BATTLES: CURRENT LEARNING FOCUS
+
+| Boss battle | Training focus |
+|---|---|
+| **SQL Complexity** | Window functions, multi-step CTEs, query reasoning, and optimisation |
+| **DAX & Data Modelling** | Star schema, filter context, time intelligence, and measure design |
+| **Statistics** | Sampling, hypothesis testing, confidence intervals, and interpretation |
+| **Business Storytelling** | Turn analysis into concise findings, caveats, and recommendations |
+
+---
+
+## 🤝 CO-OP MODE: LET'S CONNECT
+
+I welcome conversations with data analysts, BI professionals, operations teams, and recruiters.
+
+<p align="center">
+  <a href="https://github.com/vishal-Londhekar"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/vishal-Londhekar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View_projects-0A7EA4?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+</p>
+
+<p align="center">
+  <b>Have a data problem, dashboard idea, or analytics opportunity?</b><br/>
+  Let's connect and solve it with data.
+</p>
 
 ---
 
 <p align="center">
-  <i>Good analysis starts with the right question and ends with a decision people can act on.</i>
+  <i>Every dataset has a story. Every good question unlocks the next level.</i>
 </p>

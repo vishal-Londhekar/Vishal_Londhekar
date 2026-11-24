@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Vishal Londhekar Analytics Quest</title>
+  <desc id="desc">A game-inspired professional banner for a Data Analyst and Business Intelligence Analyst, showing a dashboard, skill path, and analytics tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06172d"/>
+      <stop offset="55%" stop-color="#0a2545"/>
+      <stop offset="100%" stop-color="#102f4d"/>
+    </linearGradient>
+    <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#20d9d2"/>
+      <stop offset="100%" stop-color="#2aa8ff"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#12385b"/>
+      <stop offset="100%" stop-color="#081b32"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <path d="M0 285 C180 210 260 350 420 280 S700 210 820 285 S1050 345 1200 245 L1200 360 L0 360Z" fill="#0b3150" opacity=".65"/>
+  <path d="M0 315 C180 250 280 360 455 310 S720 240 870 300 S1060 345 1200 285" fill="none" stroke="#146b87" stroke-width="2" opacity=".8"/>
+  <g opacity=".17" fill="#52d7ee">
+    <circle cx="48" cy="42" r="3"/><circle cx="76" cy="42" r="3"/><circle cx="104" cy="42" r="3"/><circle cx="132" cy="42" r="3"/><circle cx="160" cy="42" r="3"/>
+    <circle cx="48" cy="70" r="3"/><circle cx="76" cy="70" r="3"/><circle cx="104" cy="70" r="3"/><circle cx="132" cy="70" r="3"/><circle cx="160" cy="70" r="3"/>
+  </g>
+  <rect x="42" y="42" width="7" height="158" rx="3" fill="url(#aqua)"/>
+  <text x="76" y="100" fill="#f4f8ff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="1">VISHAL LONDHEKAR</text>
+  <text x="78" y="143" fill="#39d5dd" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1">DATA ANALYST  •  BUSINESS INTELLIGENCE</text>
+  <text x="78" y="190" fill="#dce9f7" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600">THE ANALYTICS QUEST</text>
+  <rect x="78" y="208" width="410" height="2" fill="#2abbd1" opacity=".8"/>
+  <text x="78" y="247" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="18">SQL   •   PYTHON   •   POWER BI   •   EXCEL   •   DAX</text>
+  <rect x="78" y="276" width="365" height="42" rx="9" fill="#0e3551" stroke="#1dbcc9" stroke-width="1.4"/>
+  <text x="96" y="303" fill="#f9d66b" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">DOMAIN EDGE</text>
+  <text x="220" y="303" fill="#e6f3ff" font-family="Arial, Helvetica, sans-serif" font-size="14">QUICK-COMMERCE OPERATIONS</text>
+
+  <g transform="translate(580 44)">
+    <path d="M0 84 L90 24 L160 66 L238 8 L318 56 L390 -2 L510 72 L510 145 L0 145Z" fill="#123a59" opacity=".75"/>
+    <path d="M10 125 L88 73 L155 102 L235 42 L311 91 L390 25 L500 96" fill="none" stroke="url(#aqua)" stroke-width="3" stroke-linecap="round"/>
+    <g fill="#f8d66c" stroke="#12324d" stroke-width="3">
+      <circle cx="88" cy="73" r="8"/><circle cx="235" cy="42" r="8"/><circle cx="390" cy="25" r="8"/>
+    </g>
+    <g font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#e8f6ff">
+      <text x="58" y="61">CLEAN</text><text x="206" y="28">ANALYZE</text><text x="364" y="10">INSIGHT</text>
+    </g>
+    <rect x="70" y="144" width="420" height="151" rx="13" fill="url(#panel)" stroke="#1e9fbe" stroke-width="2"/>
+    <rect x="84" y="157" width="392" height="22" rx="5" fill="#154568"/>
+    <circle cx="99" cy="168" r="4" fill="#2bd5d4"/><circle cx="114" cy="168" r="4" fill="#f7cf65"/><circle cx="129" cy="168" r="4" fill="#69b7ff"/>
+    <text x="150" y="173" fill="#d8f2ff" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">ANALYTICS COMMAND CENTER</text>
+    <g stroke="#1b5673" stroke-width="1">
+      <path d="M100 255 H260 M100 230 H260 M100 205 H260"/>
+    </g>
+    <g fill="url(#aqua)">
+      <rect x="112" y="232" width="20" height="23" rx="3"/><rect x="145" y="215" width="20" height="40" rx="3"/><rect x="178" y="224" width="20" height="31" rx="3"/><rect x="211" y="194" width="20" height="61" rx="3"/><rect x="244" y="183" width="12" height="72" rx="3"/>
+    </g>
+    <path d="M290 245 C315 220 329 231 346 208 S380 205 397 190 S430 195 452 180" fill="none" stroke="#f8d66c" stroke-width="3" stroke-linecap="round"/>
+    <g fill="#f8d66c"><circle cx="290" cy="245" r="4"/><circle cx="346" cy="208" r="4"/><circle cx="397" cy="190" r="4"/><circle cx="452" cy="180" r="4"/></g>
+    <text x="100" y="278" fill="#b9d9eb" font-family="Arial, Helvetica, sans-serif" font-size="11">PERFORMANCE</text>
+    <text x="290" y="278" fill="#b9d9eb" font-family="Arial, Helvetica, sans-serif" font-size="11">TRENDS</text>
+  </g>
+  <g transform="translate(1062 75)">
+    <rect width="104" height="202" rx="12" fill="#0a2039" stroke="#2488a9" stroke-width="1.5"/>
+    <text x="15" y="25" fill="#f8d66c" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">QUEST LOG</text>
+    <g fill="#34d4d2">
+      <rect x="14" y="48" width="10" height="10" rx="2"/><rect x="14" y="83" width="10" height="10" rx="2"/><rect x="14" y="118" width="10" height="10" rx="2"/><rect x="14" y="153" width="10" height="10" rx="2"/>
+    </g>
+    <g fill="#e5f2fc" font-family="Arial, Helvetica, sans-serif" font-size="10">
+      <text x="32" y="57">QUERY</text><text x="32" y="92">CLEAN</text><text x="32" y="127">VISUALIZE</text><text x="32" y="162">DECIDE</text>
+    </g>
+    <path d="M14 183 H88" stroke="#217e9e" stroke-width="2"/>
+    <text x="14" y="195" fill="#a9c7da" font-family="Arial, Helvetica, sans-serif" font-size="8">LEVEL UP WITH DATA</text>
+  </g>
+</svg>
